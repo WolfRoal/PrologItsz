@@ -1,0 +1,2 @@
+# PrologItsz
+tareas de Prolog
